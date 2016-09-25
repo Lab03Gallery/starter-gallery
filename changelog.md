@@ -15,3 +15,11 @@ Team Member: Tinayang Liu
 
                  Set up the page title in the MY_Controller.php and modified
                  the controllers to render the views
+
+@Daniel Zhang
+2016-09-24 22:50 Created a database in local phpMyAdmin.In config/autoload.php, 
+                 I added the database library, and also adjusted local settings
+                 for my system in config/database.php.
+                 Added and Modified application/models/Images.php, view/_cell.php,
+                 view/gallery.php, view/welcome.php,controllers/Gallery.php, and
+                 controllers/Welcome.php files.
